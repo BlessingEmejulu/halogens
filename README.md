@@ -1,4 +1,4 @@
-# halogens
+# Halogens
 Table of group 7 elements
 <h2><span>The Halogens: Group VII Elements</span></h2>
 <table border="2" bordercolor="Pink">
